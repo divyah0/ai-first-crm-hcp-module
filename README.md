@@ -1,5 +1,4 @@
 # ai-first-crm-hcp-module
-# AI-First CRM – HCP Interaction Module
 
 ## Overview
 This project demonstrates an AI-powered CRM module designed for healthcare sales representatives to log and manage interactions with Healthcare Professionals (HCPs) such as doctors and clinics.
