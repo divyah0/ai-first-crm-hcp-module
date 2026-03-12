@@ -1,0 +1,46 @@
+
+Quality Management System (QMS) Module
+
+1. Deviation Management
+Tracks any deviation from standard manufacturing process.
+
+Example:
+Impurity detected in API manufacturing → deviation recorded → investigation → corrective action.
+
+2. CAPA
+Corrective and Preventive Actions system.
+
+Steps:
+Problem detected
+Root cause analysis
+Corrective action implemented
+Preventive measure applied
+
+3. Product Complaints
+Handles customer complaints regarding product quality.
+
+Example:
+Tablet defect reported → complaint logged → investigation → resolution.
+
+4. Recall Management
+Used when defective products must be removed from the market.
+
+Example:
+Contaminated medicine batch → recall notice issued → batch removed.
+
+5. Supplier Management
+Ensures suppliers meet quality standards.
+
+Process:
+Supplier registration
+Quality audit
+Approval
+Continuous monitoring
+
+Roles
+
+Quality Executive
+Ensures regulatory compliance and manages investigations.
+
+Production Manager
+Oversees manufacturing and implements CAPA actions.
